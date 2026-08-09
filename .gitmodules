@@ -5,3 +5,6 @@
 [submodule "matchednull"]
 	path = matchednull
 	url = https://github.com/haomeng797-ship-it/matchednull
+[submodule "nof1kit"]
+	path = nof1kit
+	url = https://github.com/haomeng797-ship-it/nof1kit
